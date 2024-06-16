@@ -1,9 +1,3 @@
-/**
- * add multiple file type download in get, if txt then print to console
- * 
- */
-
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
