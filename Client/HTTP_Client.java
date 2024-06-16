@@ -29,7 +29,7 @@ public class HTTP_Client {
 
     private void initialize() {
         frame = new JFrame();
-        frame.setBounds(100, 100, 600, 600);
+        frame.setBounds(100, 100, 900, 600);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.getContentPane().setLayout(new BorderLayout());
 
